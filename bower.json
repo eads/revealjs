@@ -1,5 +1,5 @@
 {
-  "name": "components-revealjs",
+  "name": "eads-revealjs",
   "description": "Shim repository for Reveal.js HTML Presentation Framework",
   "version": "3.0.0",
   "license": "MIT",
@@ -10,6 +10,7 @@
   "ignore": [
     "Makefile",
     "component.json",
-    "composer.json"
+    "composer.json",
+    "test"
   ]
 }
